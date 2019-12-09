@@ -1,4 +1,4 @@
-## 挂载全局命令
+## 挂载全局命令 ##
 ```
 npm link
 // 绑定全局命令
@@ -8,7 +8,7 @@ npm unlink
 
 ## 命令一览
 命令 | 描述
-:-: | :-:
+:- | :-
 add | add a new template
 delete | delete a template
 list | list all the templates
