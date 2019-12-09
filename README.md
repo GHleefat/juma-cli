@@ -6,9 +6,11 @@ npm unlink
 // 解绑全局命令
 ```
 
-## 命令
-- add            add a new template
-- delete         delete a template
-- list           list all the templates
-- init           generate a new project from a template
-- minit          generate a test project from jest-demo
+## 命令一览
+命令 | 描述
+:-: | :-:
+add | add a new template
+delete | delete a template
+list | list all the templates
+init | generate a new project from a template
+minit | generate a test project from jest-demo
