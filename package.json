@@ -1,0 +1,27 @@
+{
+  "bin": {
+    "juma": "bin/juma.js",
+    "juma-add": "bin/juma-add.js",
+    "juma-delete": "bin/juma-delete.js",
+    "juma-list": "bin/juma-list.js",
+    "juma-init": "bin/juma-init.js",
+    "juma-minit": "bin/juma-minit.js"
+  },
+  "name": "juma-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "inquirer": "^7.0.0",
+    "chalk": "^3.0.0",
+    "ora": "^4.0.3",
+    "download-git-repo": "^3.0.2"
+  }
+}
